@@ -5,7 +5,7 @@
 ![BeautifulSoup](https://img.shields.io/badge/Scraping-BS4-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
-O **Liturgia Python** é uma aplicação desktop desenvolvida para facilitar o acesso à Liturgia Diária Católica. Através de técnicas de **Web Scraping**, o app busca as leituras, salmos e o evangelho do dia em tempo real, apresentando-os em uma interface moderna e intuitiva.
+O **Liturgia Diária Python** é uma aplicação desktop desenvolvida para facilitar o acesso à Liturgia Diária Católica. Através de técnicas de **Web Scraping**, o app busca as leituras, salmos e o evangelho do dia em tempo real, apresentando-os em uma interface moderna e intuitiva.
 
 ---
 
@@ -63,9 +63,11 @@ python app.py
 ```
 
 ## 👤 Desenvolvedor
+
 - **Mauro Collin**
 
-Analista de Sistemas | Músico (Violão, Guitarra, Baixo e Bateria) 🎸
+**Analista de Sistemas | Músico (Violão, Guitarra, Baixo e Bateria) 🎸**
+
 Sou um apaixonado por tecnologia e automação, Análise e Desenvolvimento de Sistemas. 
 Este projeto une meu conhecimento técnico em Python com minha vivência na música litúrgica, 
 buscando entregar ferramentas úteis para a comunidade.
