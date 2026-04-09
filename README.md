@@ -40,13 +40,17 @@ git clone [https://github.com/maurocollin/Liturgia_Python.git](https://github.co
 cd Liturgia_Python
 ```
 ### 2. Criar um Ambiente Virtual (Opcional, mas recomendado)
+No Windows:
 ```bash
 python -m venv venv
-# No Windows:
 .\venv\Scripts\activate
-# No Linux/Mac:
+```
+No Linux/Mac:
+```bash
+python -m venv venv
 source venv/bin/activate
 ```
+
 ### 3. Instalar as Dependências
 ```bash
 pip install -r requirements.txt
@@ -55,7 +59,7 @@ Nota: Caso não tenha o arquivo requirements.txt, instale manualmente: > pip ins
 
 ### 4. Executar o App
 ```bash
-python main.py
+python app.py
 ```
 
 ## 👤 Desenvolvedor
