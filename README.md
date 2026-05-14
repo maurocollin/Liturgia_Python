@@ -36,7 +36,7 @@ Siga os passos abaixo para configurar o ambiente e executar o projeto em sua má
 
 ### 1. Clonar o Repositório
 ```bash
-git clone [https://github.com/maurocollin/Liturgia_Python.git](https://github.com/maurocollin/Liturgia_Python.git)
+git clone https://github.com/maurocollin/Liturgia_Python.git
 cd Liturgia_Python
 ```
 ### 2. Criar um Ambiente Virtual (Opcional, mas recomendado)
